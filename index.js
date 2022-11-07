@@ -65,6 +65,10 @@
 
 // newClass.read()
 
-const eventEmitter =require("./eventEmitter.js")
+// const eventEmitter =require("./eventEmitter.js")
 
-eventEmitter.emitPrint();
+// eventEmitter.emitPrint();
+
+const football = require("./Football")
+
+football.changeToUpperCase()
