@@ -69,6 +69,11 @@
 
 // eventEmitter.emitPrint();
 
-const football = require("./Football")
+// const football = require("./Football")
 
-football.changeToUpperCase()
+// football.changeToUpperCase()
+
+
+const student =require('./Student')
+student.objStudent.active()
+
