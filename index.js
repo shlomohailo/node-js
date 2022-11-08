@@ -74,6 +74,8 @@
 // football.changeToUpperCase()
 
 
-const student =require('./Student')
-student.objStudent.active()
+// const student =require('./Student')
+// student.objStudent.active()
+// student.objStudent.writeToFile()
 
+const server =require('./server')
